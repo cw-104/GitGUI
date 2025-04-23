@@ -34,7 +34,10 @@ Made for assignment for QU "Version Control" Class.
 - **Java 17+**
 - **Swing** (for the GUI)
 - **GitSubprocessClient** – handles local Git commands from Java
+      https://github.com/CSC109/GitSubprocessClient
 - **GitHubApiClient** – talks to the GitHub API to create repositories
+      https://github.com/CSC109/GitHubApiClient
+
 
 ---
 
