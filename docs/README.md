@@ -1,6 +1,6 @@
 # GitHub Repo Creator 
 
-Welcome! This is a simple Java-based GUI application designed to help developers quickly turn a local folder into a GitHub repository with just a few clicks. It was built as a proof-of-concept for a Microsoft-sponsored challenge at Quinnipiac University.
+Welcome! This is a simple Java-based GUI application designed to help developers quickly turn a local folder into a GitHub repository with just a few clicks. It was built as a proof-of-concept for a Microsoft-sponsored challenge at Quinnipiac University(assignment concept basis).
 
 ---
 
