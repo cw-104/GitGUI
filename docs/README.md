@@ -43,6 +43,8 @@ Made for assignment for QU "Version Control" Class.
 
 ## How to Use It
 
+Website with guidelines: https://cw-104.github.io/GitGUI/
+
 1. Launch the application by running `Main.java`
 2. Fill in the required fields:
    - Your local project folder path
