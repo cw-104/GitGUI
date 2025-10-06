@@ -64,6 +64,8 @@ We take token security seriously. Please **do not hardcode your GitHub token** i
 
 We’ve also included `.gitignore` suggestions to help prevent these accidents.
 
+Bugs with Handler and Subprocessor
+
 ---
 
 ## Project Structure
